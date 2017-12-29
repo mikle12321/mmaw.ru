@@ -1,0 +1,15 @@
+a{
+ color:gold;
+ font-size: 21px;
+}
+
+.message:hover{
+  border: 5px solid #1b1c1a;
+    background-color: ;
+    border-radius: 100px;
+} 
+
+body{
+    
+ background-image: url(img/1.jpg);
+}
